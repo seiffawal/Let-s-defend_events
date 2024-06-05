@@ -1,3 +1,4 @@
+## genral info about our event
 ```md
 EventID :
 214
@@ -25,7 +26,7 @@ Device Action :
 - Created Date:	May, 18, 2024, 01:15 PM
 
 ```
-mail content
+mail content deliverd to victim
 
 ![image](https://github.com/seiffawal/Let-s-defend_events/assets/83987697/90af576c-0765-4bbc-85da-0957ba7a47e1)
 
@@ -44,16 +45,14 @@ Happy New Year,
 The Microsoft team
 
 ```
-`link payload: https://ipfs.io/ipfs/Qmbr8wmr41C35c3K2GfiP2F8YGzLhYpKpb4K66KU6mLmL4#`
-```txt
-Alarms escalated from Tier1 to Tier2 should be caused by a truly harmful event, but escalated alarms by Tier1 analysts are not always True Positive due to technical inadequacy, faulty/incomplete analysis, and authorization problems. Before initiating Incident Response processes, please verify that the alarm from the Tier1 analyst was caused by malicious activity.
-```
+`link (use QR decoder): https://ipfs.io/ipfs/Qmbr8wmr41C35c3K2GfiP2F8YGzLhYpKpb4K66KU6mLmL4#`
+## information from log row
 ```yaml
 Field
 type
 
 source_address
-158.69.201.47
+158.69.201.47 (bad reputation)
 
 source_port
 451
@@ -87,7 +86,9 @@ Device Action
 
 Allowed
 ```
+
 ## process log
+- this events happened in 2020 our event is in 2024 it's not useful to us
 ```yml
 
 No Process ID
