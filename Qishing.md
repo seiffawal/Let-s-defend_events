@@ -27,7 +27,8 @@ Device Action :
 ```
 mail content
 
-![Alt text](image.png)
+![image](https://github.com/seiffawal/Let-s-defend_events/assets/83987697/90af576c-0765-4bbc-85da-0957ba7a47e1)
+
 ```txt
 
 Hello Claire,
