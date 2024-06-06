@@ -1,4 +1,4 @@
-# discreption
+# Description
 - EventID :`113`
 - Event Time :`Mar, 01, 2022, 11:06 AM`
 - Rule :`SOC163 - Suspicious Certutil.exe Usage`
@@ -81,7 +81,7 @@ Is the current activity suspicious?
 
 `https://lolbas-project.github.io/`
 ## Q2
-- Determine Suspicious Activity: Yes, suspicious
+- Determine Suspicious Activity: `Yes, suspicious`
 ## Q3
 Question: What Is Suspicious Activity?
 ```ps
