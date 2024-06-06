@@ -77,7 +77,8 @@ Is the current activity suspicious?
 ```
 - `yes`
 
-![alt text](image-1.png)
+![image](https://github.com/seiffawal/Let-s-defend_events/assets/83987697/50317ca9-8c76-45a6-aaee-b054b8f2f867)
+
 `https://lolbas-project.github.io/`
 
 - Determine Suspicious Activity: Yes, suspicious
